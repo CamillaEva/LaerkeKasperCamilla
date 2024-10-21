@@ -21,6 +21,9 @@ public class LKC {
         System.out.println("to");
 
         System.out.println("tre");
+        System.out.println("hej hej");
+
+        System.out.println("ok");
 
     }
 }
