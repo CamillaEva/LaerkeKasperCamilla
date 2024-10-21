@@ -8,5 +8,6 @@ public class LKC {
         System.out.println("hej hej og farvel!");
 
         System.out.println("halløjsa");
+        System.out.println("det er en god dag i dag");
     }
 }
