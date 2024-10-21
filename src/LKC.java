@@ -16,6 +16,8 @@ public class LKC {
 
         System.out.println("kasper");
 
+        System.out.println("en");
+
 
     }
 }
