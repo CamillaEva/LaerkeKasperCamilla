@@ -18,6 +18,9 @@ public class LKC {
 
         System.out.println("en");
 
+        System.out.println("to");
+
+
 
     }
 }
