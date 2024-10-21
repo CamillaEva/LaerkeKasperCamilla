@@ -20,7 +20,7 @@ public class LKC {
 
         System.out.println("to");
 
-
+        System.out.println("tre");
 
     }
 }
